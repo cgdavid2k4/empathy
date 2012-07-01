@@ -1,0 +1,3 @@
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\Interop.ACTIVEHAPTEKXLib.dll
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\TTS Waiting Example.vbproj.ResolveComReference.cache

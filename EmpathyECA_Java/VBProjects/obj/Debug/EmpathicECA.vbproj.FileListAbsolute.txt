@@ -1,0 +1,14 @@
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\Interop.ACTIVEHAPTEKXLib.dll
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\EmpathicECA.vbproj.ResolveComReference.cache
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\bin\Project1.exe
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\bin\Project1.pdb
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\bin\Project1.xml
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\bin\Interop.ACTIVEHAPTEKXLib.dll
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\bin\AxInterop.ACTIVEHAPTEKXLib.dll
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\ResolveAssemblyReference.cache
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\Project1.MainForm.resources
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\EmpathicECA.vbproj.GenerateResource.Cache
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\Project1.exe
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\Project1.xml
+\\tsclient\Z\Personal Works\Scientific Projects\EmpathicECA\obj\Debug\Project1.pdb
